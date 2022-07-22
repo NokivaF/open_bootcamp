@@ -5,10 +5,10 @@ public class Control {
     String estacion = "";
 
     if (numeroIf > 0) {
-      System.out.println(numeroIf + "es un número positivo");
+      System.out.println(numeroIf + " es un número positivo");
     }
     if (numeroIf < 0) {
-      System.out.println(numeroIf + "es un número negativo");
+      System.out.println(numeroIf + " es un número negativo");
     } else {
       System.out.println("No hay número por comparar");
     }
